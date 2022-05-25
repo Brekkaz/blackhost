@@ -1,0 +1,6 @@
+{
+  "python.analysis.extraPaths": [
+    "./app/db"
+  ],
+  "python.formatting.provider": "black"
+}

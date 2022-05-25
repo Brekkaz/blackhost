@@ -1,0 +1,4 @@
+POSTGRES_HOST=db
+POSTGRES_PASSWORD=supersecret
+POSTGRES_USER=blackhost
+POSTGRES_DB=blackhost
